@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aaj Ka News</string>
+    <string name="news_api_key">287da81201e84513866473c106bac1af</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
